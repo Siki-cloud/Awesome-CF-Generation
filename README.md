@@ -1,7 +1,18 @@
 # Awesome CF Generation
 This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual means XXXX(definition Todo). Here are some examples of counterfactuals based on sentiment anlysis and natural language inference task.
 
-<img src="image/cfs_example.png" width="70%" margin="20px" text="Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively.">
+<center>
+    <img style="border-radius: 0.3125em;
+    box-shadow: 0 2px 4px 0 rgba(34,36,38,.12),0 2px 10px 0 rgba(34,36,38,.08);" 
+    src="image/cfs_example.png">
+    <br>
+    <div style="color:orange; border-bottom: 1px solid #d9d9d9;
+    display: inline-block;
+    color: #999;
+    padding: 2px;">Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively</div>
+</center>
+
+
 
 
 ## Manual CF Generation
