@@ -1,6 +1,8 @@
 # Awesome CF Generation
 This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual means XXXX(definition Todo). Here are some examples of counterfactuals based on sentiment anlysis and natural language inference task.
 
+![Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively.](iamge/cfs_example.png)
+
 ## Manual CF Generation
 [Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 （an controversy in overleaf？It is cited in *Human annotation* and *Traditional methods* Section. ）
 
