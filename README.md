@@ -34,3 +34,5 @@ CF generation studies are relative with language models,such as traditional pret
 [Llms as counterfactual explanation modules: Can chatgpt explain black-box text classifiers?](https://arxiv.org/pdf/2309.13340v1.pdf), AAAI 2024(update url, Todo) 
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://aclanthology.org/2023.acl-long.302.pdf),  ACL 2023 
+
+[Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://arxiv.org/pdf/2310.00603v2.pdf), ICLR 2024
