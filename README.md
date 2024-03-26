@@ -40,3 +40,5 @@ CF generation studies are relative with language models,such as traditional pret
 [Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://arxiv.org/pdf/2310.00603v2.pdf), ICLR 2024
 
 [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](https://aclanthology.org/2024.eacl-long.113.pdf), EACL 2024
+
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023
