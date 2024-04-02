@@ -18,7 +18,7 @@ This repository contains the frontier research on counterfactual generation whic
 ## Automatic CF Generation
 CF generation studies are relative with language models,such as traditional pretrained models, e.g., bert and roberta, etc. or  large language models, e.g., gpt-3.5 and llama.
 
-### Non-LLM based CF Generation
+### Non-prompt based CF Generation
 [Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021 
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021 
@@ -32,7 +32,7 @@ CF generation studies are relative with language models,such as traditional pret
 [NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022
 
 
-### LLM-based CF Generation
+### prompt-based CF Generation
 [Llms as counterfactual explanation modules: Can chatgpt explain black-box text classifiers?](https://arxiv.org/pdf/2309.13340v1.pdf), AAAI 2024(update url, Todo) 
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://aclanthology.org/2023.acl-long.302.pdf),  ACL 2023 
@@ -41,4 +41,6 @@ CF generation studies are relative with language models,such as traditional pret
 
 [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](https://aclanthology.org/2024.eacl-long.113.pdf), EACL 2024
 
-[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 (Detect the spurious correlation between concept and label, and simply propose to use cfs to alleviate spurious. Undo in overleaf.)
+
+[A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
