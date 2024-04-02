@@ -32,7 +32,7 @@ CF generation studies are relative with language models,such as traditional pret
 [NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022
 
 
-### prompt-based CF Generation
+### Prompt based CF Generation
 [Llms as counterfactual explanation modules: Can chatgpt explain black-box text classifiers?](https://arxiv.org/pdf/2309.13340v1.pdf), AAAI 2024(update url, Todo) 
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://aclanthology.org/2023.acl-long.302.pdf),  ACL 2023 
@@ -45,4 +45,3 @@ CF generation studies are relative with language models,such as traditional pret
 
 [A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
 
-[Zero-Shot Cross-Lingual Sentiment Classification under Distribution Shift: an Exploratory Study](https://arxiv.org/pdf/2311.06549.pdf), MRL|WS 2023
