@@ -44,3 +44,5 @@ CF generation studies are relative with language models,such as traditional pret
 [Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 (Detect the spurious correlation between concept and label, and simply propose to use cfs to alleviate spurious. Undo in overleaf.)
 
 [A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
+
+[Zero-Shot Cross-Lingual Sentiment Classification under Distribution Shift: an Exploratory Study](https://arxiv.org/pdf/2311.06549.pdf), MRL|WS 2023
