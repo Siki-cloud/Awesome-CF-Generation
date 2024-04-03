@@ -19,6 +19,9 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection](https://aclanthology.org/2023.emnlp-main.649.pdf), EMNLP 2023 
 
+[“Call me sexist, but...”: Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples](https://arxiv.org/pdf/2004.12764.pdf), AAAI 2021
+
+[Evaluating Models’ Local Decision Boundaries via Contrast Sets](https://aclanthology.org/2020.findings-emnlp.117.pdf), EMNLP finding 2020
 
 ## Automatic CF Generation
 CF generation studies are relative to language models, such as traditional pre-trained models, e.g., Bert and Roberta, etc., or  large language models, e.g., gpt-3.5 and llama.
