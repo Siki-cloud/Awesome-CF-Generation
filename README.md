@@ -1,12 +1,14 @@
 # Awesome CF Generation
-This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual is obtained by making minimal or loose changes to existing data to flip their label for a particular NLP task. The counterfactually augmented data (CAD) consists of original data and counterfactuals, also called contrast sets (Gardner et al., 2020; Atanasova et al., 2022). Here are some examples of counterfactuals based on sentiment analysis and natural language inference tasks.
+This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual is obtained by making minimal or loose changes to existing data to flip their label for a particular NLP task. The counterfactually augmented data (CAD) consists of original data and counterfactuals, also called contrast sets (Gardner et al., 2020; Atanasova et al., 2022).
+
+Here are some examples of counterfactuals based on sentiment analysis and natural language inference tasks.
 
  <img src="image/cfs_example.png" width = "70%" alt="Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively" align=center />
 
 ### Reference
 Matt Gardner, et al. Evaluating Models’ Local Decision Boundaries via Contrast Sets. In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 1307–1323, Online. Association for Computational Linguistics.
 
-Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of the Association for Computational Linguistics (TACL), to appear, 10.
+Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of the Association for Computational Linguistics (TACL), 2022.
 
 ## Manual CF Generation
 [Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 (a controversy in overleaf？It is cited in *Human annotation* and *Traditional methods* Sections. )
