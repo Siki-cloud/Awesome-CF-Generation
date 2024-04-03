@@ -1,12 +1,15 @@
 # Awesome CF Generation
-This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual means XXXX(definition Todo). Here are some examples of counterfactuals based on sentiment anlysis and natural language inference task.
+This repository contains the frontier research on counterfactual generation which is a hot topic recently.  A counterfactual is obtained by making minimal or loose changes to existing data to flip their label for a particular NLP task. The counterfactually augmented data (CAD) consists of original data and counterfactuals, also called contrast sets (Gardner et al., 2020; Atanasova et al., 2022). Here are some examples of counterfactuals based on sentiment analysis and natural language inference tasks.
 
  <img src="image/cfs_example.png" width = "70%" alt="Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively" align=center />
 
+### Reference
+Matt Gardner, et al. Evaluating Models’ Local Decision Boundaries via Contrast Sets. In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 1307–1323, Online. Association for Computational Linguistics.
 
+Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of the Association for Computational Linguistics (TACL), to appear, 10.
 
 ## Manual CF Generation
-[Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 （an controversy in overleaf？It is cited in *Human annotation* and *Traditional methods* Section. ）
+[Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 (a controversy in overleaf？It is cited in *Human annotation* and *Traditional methods* Sections. )
 
 [Learning the difference that makes a difference with counterfactually-augmented data](https://openreview.net/pdf?id=Sklgs0NFvr),  ICLR 2020 
 
@@ -16,7 +19,7 @@ This repository contains the frontier research on counterfactual generation whic
 
 
 ## Automatic CF Generation
-CF generation studies are relative with language models,such as traditional pretrained models, e.g., bert and roberta, etc. or  large language models, e.g., gpt-3.5 and llama.
+CF generation studies are relative to language models, such as traditional pre-trained models, e.g., Bert and Roberta, etc., or  large language models, e.g., gpt-3.5 and llama.
 
 ### Non-prompt based CF Generation
 [Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021 
@@ -45,3 +48,4 @@ CF generation studies are relative with language models,such as traditional pret
 
 [A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
 
+[CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation](https://arxiv.org/pdf/2210.04873.pdf), EMNLP finding 2022
