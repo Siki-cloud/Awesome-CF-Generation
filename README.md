@@ -61,7 +61,7 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](https://aclanthology.org/2024.eacl-long.113.pdf), EACL 2024
 
-[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 (Detect the spurious correlation between concept and label, and simply propose to use cfs to alleviate spurious. Undo in overleaf.)
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 ( Undo in overleaf: Detect the spurious correlation between concept and label, and simply propose to use cfs to alleviate spurious.)
 
 [A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
 
