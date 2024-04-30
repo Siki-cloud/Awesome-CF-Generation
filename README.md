@@ -27,7 +27,13 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 CF generation studies are relative to language models, such as traditional pre-trained models, e.g., Bert and Roberta, etc., or  large language models, e.g., gpt-3.5 and llama.
 
 ### Non-prompt based CF Generation
+[LEWIS: Levenshtein editing for unsupervised text style transfer](https://arxiv.org/pdf/2105.08206) ACL 2021 sentiment transfer
+
+[Unsupervised Text Style Transfer with Padded Masked Language Models](https://aclanthology.org/2020.emnlp-main.699.pdf) EMNLP 2020 sentiment transfer
+
 [Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021 
+
+[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/pdf/2107.07150), ACL 2022
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021 
 
