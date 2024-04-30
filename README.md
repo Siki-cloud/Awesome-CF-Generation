@@ -39,7 +39,7 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022
 
-[Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/pdf/2008.01897.pdf) PR 2022,CCFB
+[Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/pdf/2008.01897.pdf) PR 2022, CCFB
 
 [Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://aclanthology.org/2021.acl-long.26.pdf), ACL | IJCNLP 2021 
 
@@ -50,6 +50,7 @@ CF generation studies are relative to language models, such as traditional pre-t
 [Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029) CKLM 2023 
 
 [Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://arxiv.org/pdf/2305.13535.pdf), EMNLP finding 2023 
+
 
 
 ### Prompt based CF Generation
