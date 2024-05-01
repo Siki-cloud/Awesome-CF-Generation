@@ -31,9 +31,15 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Unsupervised Text Style Transfer with Padded Masked Language Models](https://aclanthology.org/2020.emnlp-main.699.pdf) EMNLP 2020 sentiment transfer
 
-[Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021 
+[Politeness transfer: A tag and generate approach](https://aclanthology.org/2020.acl-main.169.pdf), ACL 2020 politeness style transfer
 
-[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/pdf/2107.07150), ACL 2022
+[Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://aclanthology.org/2020.acl-main.442.pdf) 2020 ACL template + generation
+
+[Linguistically-informed transformations (LIT): A method for automatically generating contrast sets](https://arxiv.org/pdf/2010.08580) ACL 2020 parser+generation
+
+[Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021 template + generation
+
+[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/pdf/2107.07150), ACL 2022 parser+generation
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021 
 
