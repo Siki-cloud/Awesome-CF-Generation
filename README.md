@@ -55,6 +55,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Kace-Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference](https://aclanthology.org/2021.acl-long.196.pdf),  ACL 2021, rationals + controllable LM
 
+[CREST: A Joint Framework for Rationalization and Counterfactual Text Generation](https://arxiv.org/pdf/2305.17075), ACL 2023, rationals mask + fill
+
 [NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022, concept + CLM
 
 [Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/pdf/2008.01897.pdf) PR 2022, CCFB, mask-infill: important features and CLM fill.
