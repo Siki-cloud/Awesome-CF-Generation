@@ -63,7 +63,7 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022, retrivel context + open-generation
 
-[Entity-based knowledge conflicts in question answering](https://aclanthology.org/2021.emnlp-main.565.pdf), EMNLP 2021, retrivel context + entity replacement
+[Entity-based knowledge conflicts in question answering](https://aclanthology.org/2021.emnlp-main.565.pdf), EMNLP 2021, retrivel context + entity-based Substitutions
 
 [EXPLAIN, EDIT, GENERATE: Rationale-sensitive counterfactual data augmentation for multi-hop fact verification](https://aclanthology.org/2023.emnlp-main.826.pdf), EMNLP 2023, casual modeling generation： rationals + open-generation
 
