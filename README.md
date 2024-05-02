@@ -63,6 +63,11 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022, retrivel content + free-generation
 
+[EXPLAIN, EDIT, GENERATE: Rationale-sensitive counterfactual data augmentation for multi-hop fact verification](https://aclanthology.org/2023.emnlp-main.826.pdf), EMNLP 2023, casual modeling generation： rationals + open-generation
+
+[Counterfac tual generation with identifiability guarantees](https://arxiv.org/pdf/2402.15309), NeurIPS 2023, casual modeling generation: sentiment style transfer
+
+[A causal lens for controllable text generation](https://arxiv.org/pdf/2201.09119), NeurIPS 2021, casual modeling generation: text attribution transfer
 
 
 [Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://arxiv.org/pdf/2305.13535.pdf), EMNLP finding 2023, a strategy observing a more robust CF Labeler.  
