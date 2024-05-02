@@ -61,8 +61,7 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [AutoCAD: Automatically Generate Counterfactuals for Mitigating Shortcut Learning](https://aclanthology.org/2022.findings-emnlp.170.pdf) EMNLP finding 2022, mask-infill: attribution and CLM fill
 
-
-[Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022
+[Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022, retrivel content + free-generation
 
 
 
