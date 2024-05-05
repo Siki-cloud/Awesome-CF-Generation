@@ -49,6 +49,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [A general search-based framework for generating textual counterfactual explanations](https://arxiv.org/pdf/2211.00369v2), AAAI 2024, search-based optimization: iterative mask-fill 
 
+[Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification](https://arxiv.org/pdf/2010.12512), Coling (CCFB) 2020, iterative mask-fill
+
 [Explaining Data-Driven Document Classifications](https://www.semanticscholar.org/paper/Explaining-Data-Driven-Document-Classifications-Martens-Provost/add9930a368c1f281a1428d09ba65751edf06555), MIS Quarterly 2014, search-based rationals identification and delete
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021,  steer internal states 
