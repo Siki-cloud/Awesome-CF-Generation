@@ -33,6 +33,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Politeness transfer: A tag and generate approach](https://aclanthology.org/2020.acl-main.169.pdf), ACL 2020, politeness style transfer
 
+[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/pdf/1804.06437), NAACL 2018, sentiment transfer: attribution（sentiment-bearing words）  + replacement with retrieval texts
+
 [Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://arxiv.org/pdf/2012.10040) AAAI 2021, casual score + dictionary replace
 
 [Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://aclanthology.org/2021.acl-long.26.pdf), ACL | IJCNLP 2021, dictionary casual identification + MLM replacement + SVM filter + Moverscore selection.
@@ -46,6 +48,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 [Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/pdf/2107.07150), ACL 2022, parser+generation
 
 [A general search-based framework for generating textual counterfactual explanations](https://arxiv.org/pdf/2211.00369v2), AAAI 2024, search-based optimization: iterative mask-fill 
+
+[Explaining Data-Driven Document Classifications](https://www.semanticscholar.org/paper/Explaining-Data-Driven-Document-Classifications-Martens-Provost/add9930a368c1f281a1428d09ba65751edf06555), MIS Quarterly 2014, search-based rationals identification and delete
 
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021,  steer internal states 
 
