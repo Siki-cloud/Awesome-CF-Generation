@@ -53,6 +53,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Explaining Data-Driven Document Classifications](https://www.semanticscholar.org/paper/Explaining-Data-Driven-Document-Classifications-Martens-Provost/add9930a368c1f281a1428d09ba65751edf06555), MIS Quarterly 2014, search-based rationals identification and delete
 
+[Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/pdf/1912.01819), ADAC (CCF None) 2019, attribution features delete.
+
 [Generate Your Counterfactuals: Towards Controlled Counterfactual Generation for Text](https://cdn.aaai.org/ojs/17594/17594-13-21088-1-2-20210518.pdf),  AAAI 2021,  steer internal states 
 
 [Generating Realistic Natural Language Counterfactuals](https://aclanthology.org/2021.findings-emnlp.306.pdf),  EMNLP finding 2021, find perturbation in latent space
@@ -70,6 +72,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 [Counterfactual Explanation Based on Gradual Construction for Deep Networks](https://arxiv.org/pdf/2008.01897.pdf) PR 2022, CCFB, mask-infill: important features and CLM fill.
 
 [AutoCAD: Automatically Generate Counterfactuals for Mitigating Shortcut Learning](https://aclanthology.org/2022.findings-emnlp.170.pdf) EMNLP finding 2022, mask-infill: attribution and CLM fill
+
+[Controlling Text Edition by Changing Answers of Specific Questions](https://aclanthology.org/2021.findings-acl.110.pdf), ACL-IJCNLP finding 2021, related word mask and LSTM fill.
 
 [Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022, retrivel context + open-generation
 
