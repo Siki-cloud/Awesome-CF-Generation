@@ -41,6 +41,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://aclanthology.org/2020.acl-main.442.pdf) 2020 ACL, template + dictionary generation
 
+[Paws: Paraphrase adversaries from word scrambling](https://arxiv.org/pdf/1904.01130), NAACL 2019, parser template + generation
+
 [Linguistically-informed transformations (LIT): A method for automatically generating contrast sets](https://arxiv.org/pdf/2010.08580) ACL 2020, parser+generation
 
 [Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021, template + generation
