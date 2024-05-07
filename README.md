@@ -23,6 +23,8 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Evaluating Models’ Local Decision Boundaries via Contrast Sets](https://aclanthology.org/2020.findings-emnlp.117.pdf), EMNLP finding 2020
 
+[Logicguided data augmentation and regularization for consistent question answering](https://aclanthology.org/2020.acl-main.499.pdf), ACL 2020.
+
 ## Automatic CF Generation
 CF generation studies are relative to language models, such as traditional pre-trained models, e.g., Bert and Roberta, etc., or  large language models, e.g., gpt-3.5 and llama.
 
