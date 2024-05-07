@@ -65,6 +65,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 
 [Explaining NLP Models via Minimal Contrastive Editing (MiCE)](https://aclanthology.org/2021.findings-acl.336.pdf), ACL finding 2021,  attribution + generation
 
+[Let the CAT out of the bag: Contrastive Attributed explanations for Text](https://aclanthology.org/2022.emnlp-main.484.pdf). EMNLP 2022, attribution + generation
+
 [Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029) CKLM 2023, improved version of MiCE
 
 [Kace-Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference](https://aclanthology.org/2021.acl-long.196.pdf),  ACL 2021, rationals + controllable LM
