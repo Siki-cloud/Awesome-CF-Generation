@@ -121,7 +121,7 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029) CKLM 2023
 
-[CREST: A Joint Framework for Rationalization and Counterfactual Text Generation](https://arxiv.org/pdf/2305.17075), ACL 2023
+[CREST: A Joint Framework for Rationalization and Counterfactual Text Generation](https://aclanthology.org/2023.acl-long.842.pdf), ACL 2023
 
 [Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction](https://dl.acm.org/doi/abs/10.1145/3543507.3583504), WWW 2023
 
@@ -160,4 +160,4 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://aclanthology.org/2023.findings-emnlp.10.pdf), EMNLP finding 2023
 
-[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf), arXive Preprint 2023 
