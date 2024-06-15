@@ -5,30 +5,36 @@ Here are some examples of counterfactuals based on sentiment analysis and natura
 
  <img src="image/cfs_example.png" width = "70%" alt="Examples of counterfactals for sentiment analysis (top) and natural language model (bottom) respectively" align=center />
 
+The following papers are collected and categorized according to our survey paper—— A Survey on Natural Language Counterfactual Generation. 
+
+<img src="image/texonomy_overview.png" width = "70%" alt="Overview of Counterfactual Generation Taxonomy" align=center />
+
+
 ### Reference
 Matt Gardner, et al. Evaluating Models’ Local Decision Boundaries via Contrast Sets. In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 1307–1323, Online. Association for Computational Linguistics.
 
 Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of the Association for Computational Linguistics (TACL), 2022.
 
-## Manual CF Generation
-[Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 (a controversy in overleaf？It is cited in *Human annotation* and *Traditional methods* Sections. )
+## Manual Generation
 
-[Learning the difference that makes a difference with counterfactually-augmented data](https://openreview.net/pdf?id=Sklgs0NFvr),  ICLR 2020 
+[Counterfactual story reasoning and generation](https://aclanthology.org/D19-1509.pdf),  EMNLP-IJCNLP 2019 
+
+[Learning the difference that makes a difference with counterfactually-augmented data](https://openreview.net/pdf?id=Sklgs0NFvr),  ICLR 2020
 
 [More bang for your buck: Natural perturbation for robust question answering](https://aclanthology.org/2020.emnlp-main.12.pdf), EMNLP 2020 
 
-[People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection](https://aclanthology.org/2023.emnlp-main.649.pdf), EMNLP 2023 
+[Evaluating Models’ Local Decision Boundaries via Contrast Sets](https://aclanthology.org/2020.findings-emnlp.117.pdf), EMNLP finding 2020
+
+[Automated Fact-Checking of Claims from Wikipedia](https://aclanthology.org/2020.lrec-1.849.pdf), LREC 2020
 
 [“Call me sexist, but...”: Revisiting Sexism Detection Using Psychological Scales and Adversarial Samples](https://arxiv.org/pdf/2004.12764.pdf), AAAI 2021
 
-[Evaluating Models’ Local Decision Boundaries via Contrast Sets](https://aclanthology.org/2020.findings-emnlp.117.pdf), EMNLP finding 2020
+## Gradient-based Optimization
 
-[Logicguided data augmentation and regularization for consistent question answering](https://aclanthology.org/2020.acl-main.499.pdf), ACL 2020.
+## Identify and then Generate
 
-## Automatic CF Generation
-CF generation studies are relative to language models, such as traditional pre-trained models, e.g., Bert and Roberta, etc., or  large language models, e.g., gpt-3.5 and llama.
+## LLMs as Counterfactual Generation
 
-### Non-prompt based CF Generation
 [LEWIS: Levenshtein editing for unsupervised text style transfer](https://arxiv.org/pdf/2105.08206) ACL 2021, sentiment transfer
 
 [Unsupervised Text Style Transfer with Padded Masked Language Models](https://aclanthology.org/2020.emnlp-main.699.pdf) EMNLP 2020, sentiment transfer
@@ -97,8 +103,6 @@ CF generation studies are relative to language models, such as traditional pre-t
 [Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://arxiv.org/pdf/2305.13535.pdf), EMNLP finding 2023, a strategy observing a more robust CF Labeler.  
 
 
-
-### Prompt based CF Generation
 [Llms as counterfactual explanation modules: Can chatgpt explain black-box text classifiers?](https://arxiv.org/pdf/2309.13340v1.pdf), AAAI 2024(update url, Todo) 
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://aclanthology.org/2023.acl-long.302.pdf),  ACL 2023 
@@ -112,3 +116,8 @@ CF generation studies are relative to language models, such as traditional pre-t
 [A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
 
 [CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation](https://arxiv.org/pdf/2210.04873.pdf), EMNLP finding 2022
+
+## Other Related Papers
+[Logic-guided data augmentation and regularization for consistent question answering](https://aclanthology.org/2020.acl-main.499.pdf), ACL 2020.
+
+[People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection](https://aclanthology.org/2023.emnlp-main.649.pdf), EMNLP 2023 
