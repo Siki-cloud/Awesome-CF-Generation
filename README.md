@@ -55,90 +55,109 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Explaining Data-Driven Document Classifications](https://www.semanticscholar.org/paper/Explaining-Data-Driven-Document-Classifications-Martens-Provost/add9930a368c1f281a1428d09ba65751edf06555), MIS Quarterly 2014
 
+[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://aclanthology.org/N18-1169.pdf), NAACL 2018
 
-## LLMs as Counterfactual Generation
+[Mask and Infill: Applying Masked Language Model for Sentiment Transfer](https://www.ijcai.org/proceedings/2019/0732.pdf), IJCAI 2019
 
-[LEWIS: Levenshtein editing for unsupervised text style transfer](https://arxiv.org/pdf/2105.08206) ACL 2021
-
-[Unsupervised Text Style Transfer with Padded Masked Language Models](https://aclanthology.org/2020.emnlp-main.699.pdf) EMNLP 2020
+[PAWS: Paraphrase Adversaries from Word Scrambling](https://aclanthology.org/N19-1131.pdf), NAACL-HLT 2019
 
 [Politeness transfer: A tag and generate approach](https://aclanthology.org/2020.acl-main.169.pdf), ACL 2020
 
-[Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://arxiv.org/pdf/1804.06437), NAACL 2018
+[Unsupervised Text Style Transfer with Padded Masked Language Models](https://aclanthology.org/2020.emnlp-main.699.pdf), EMNLP 2020
 
-[Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://arxiv.org/pdf/2012.10040) AAAI 2021
-
-[Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://aclanthology.org/2021.acl-long.26.pdf), ACL | IJCNLP 2021
+[Linguistically-informed transformations (LIT): A method for automatically generating contrast sets](https://aclanthology.org/2020.blackboxnlp-1.12.pdf) ACL 2020
 
 [Beyond Accuracy: Behavioral Testing of NLP Models with CheckList](https://aclanthology.org/2020.acl-main.442.pdf) 2020 ACL
 
-[Paws: Paraphrase adversaries from word scrambling](https://arxiv.org/pdf/1904.01130), NAACL 2019
+[Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification](https://aclanthology.org/2020.coling-main.541.pdf), Coling (CCFB) 2020
 
-[Linguistically-informed transformations (LIT): A method for automatically generating contrast sets](https://arxiv.org/pdf/2010.08580) ACL 2020
+[A comparison of instance-level counterfactual explanation algorithms for behavioral and textual data: SEDC, LIME-C and SHAP-C](https://dl.acm.org/doi/10.1007/s11634-020-00418-3), ADAC 2020
+
+[Logic-guided data augmentation and regularization for consistent question answering](https://aclanthology.org/2020.acl-main.499.pdf), ACL 2020.
+
+[LEWIS: Levenshtein editing for unsupervised text style transfer](https://aclanthology.org/2021.findings-acl.344.pdf), ACL 2021
 
 [Polyjuice: Generating Counterfactuals for Explaining, Evaluating, and Improving Models](https://aclanthology.org/2021.acl-long.523.pdf), ACL 2021
 
-[Tailor: Generating and Perturbing Text with Semantic Controls](https://arxiv.org/pdf/2107.07150), ACL 2022
-
-[A general search-based framework for generating textual counterfactual explanations](https://arxiv.org/pdf/2211.00369v2), AAAI 2024
-
-[Generating Plausible Counterfactual Explanations for Deep Transformers in Financial Text Classification](https://arxiv.org/pdf/2010.12512), Coling (CCFB) 2020
-
-
-
-[Counterfactual Explanation Algorithms for Behavioral and Textual Data](https://arxiv.org/pdf/1912.01819), ADAC (CCF None) 2019
-
-
-
-
-
 [Explaining NLP Models via Minimal Contrastive Editing (MiCE)](https://aclanthology.org/2021.findings-acl.336.pdf), ACL finding 2021
 
-[Let the CAT out of the bag: Contrastive Attributed explanations for Text](https://aclanthology.org/2022.emnlp-main.484.pdf). EMNLP 2022
+[Robustness to Spurious Correlations in Text Classification via Automatically Generated Counterfactuals](https://cdn.aaai.org/ojs/17651/17651-13-21145-1-2-20210518.pdf) AAAI 2021
 
-[Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029) CKLM 2023
+[CrossAug: A Contrastive Data Augmentation Method for Debiasing Fact Verification Models](https://dl.acm.org/doi/abs/10.1145/3459637.3482078), CIKM 2021
 
-[Kace-Generating Knowledge-Aware Contrastive Explanations for Natural Language Inference](https://aclanthology.org/2021.acl-long.196.pdf),  ACL 2021
+[Exploring the Efficacy of Automatically Generated Counterfactuals for Sentiment Analysis](https://aclanthology.org/2021.acl-long.26.pdf), ACL | IJCNLP 2021
 
-[CREST: A Joint Framework for Rationalization and Counterfactual Text Generation](https://arxiv.org/pdf/2305.17075), ACL 2023
-
-[NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022
-
-
-
-[AutoCAD: Automatically Generate Counterfactuals for Mitigating Shortcut Learning](https://aclanthology.org/2022.findings-emnlp.170.pdf) EMNLP finding 2022
+[Entity-based knowledge conflicts in question answering](https://aclanthology.org/2021.emnlp-main.565.pdf), EMNLP 2021
 
 [Controlling Text Edition by Changing Answers of Specific Questions](https://aclanthology.org/2021.findings-acl.110.pdf), ACL-IJCNLP finding 2021
+
+[KACE: Generating Knowledge Aware Contrastive Explanations for Natural Language Inference](https://aclanthology.org/2021.acl-long.196.pdf),  ACL 2021
+
+[Reinforced Counterfactual Data Augmentation for Dual Sentiment Classification](https://aclanthology.org/2021.emnlp-main.24.pdf), EMNLP 2021
+
+[Learning Models for Actionable Recourse](https://proceedings.neurips.cc/paper/2021/file/9b82909c30456ac902e14526e63081d4-Paper.pdf), NeurIPS 2021
+
+[Text Counterfactuals via Latent Optimization and Shapley-Guided Search](https://aclanthology.org/2021.emnlp-main.452.pdf), EMNLP 2021
+
+[Sketch and Customize: A Counterfactual Story Generator](https://ojs.aaai.org/index.php/AAAI/article/view/17532/17339), AAAI 2021
+
+[Tailor: Generating and Perturbing Text with Semantic Controls](https://aclanthology.org/2022.acl-long.228.pdf), ACL 2022
 
 [Retrieval-guided Counterfactual Generation for QA](https://aclanthology.org/2022.acl-long.117.pdf), ACL 2022
 
 [Break, Perturb, Build: Automatic Perturbation of Reasoning Paths Through Question Decomposition](https://aclanthology.org/2022.tacl-1.7.pdf), TACL 2022
 
-[Entity-based knowledge conflicts in question answering](https://aclanthology.org/2021.emnlp-main.565.pdf), EMNLP 2021
+[AutoCAD: Automatically Generate Counterfactuals for Mitigating Shortcut Learning](https://aclanthology.org/2022.findings-emnlp.170.pdf), EMNLP finding 2022
+
+[Let the CAT out of the bag: Contrastive Attributed explanations for Text](https://aclanthology.org/2022.emnlp-main.484.pdf), EMNLP 2022
+
+[NeuroCounterfactuals: Beyond Minimal-Edit Counterfactuals for Richer Data Augmentation](https://aclanthology.org/2022.findings-emnlp.371.pdf),  EMNLP finding 2022
+
+[DoCoGen: Domain Counterfactual Generation for Low Resource Domain Adaptation](https://aclanthology.org/2022.acl-long.533.pdf), ACL 2022
+
+[Unsupervised Editing for Counterfactual Stories](https://ojs.aaai.org/index.php/AAAI/article/view/21290/21039), AAAI 2022
 
 [EXPLAIN, EDIT, GENERATE: Rationale-sensitive counterfactual data augmentation for multi-hop fact verification](https://aclanthology.org/2023.emnlp-main.826.pdf), EMNLP 2023
 
+[Relevance-based Infilling for Natural Language Counterfactuals](https://dl.acm.org/doi/10.1145/3583780.3615029) CKLM 2023
 
+[CREST: A Joint Framework for Rationalization and Counterfactual Text Generation](https://arxiv.org/pdf/2305.17075), ACL 2023
 
+[Towards Model Robustness: Generating Contextual Counterfactuals for Entities in Relation Extraction](https://dl.acm.org/doi/abs/10.1145/3543507.3583504), WWW 2023
 
+[SCENE: Self-Labeled Counterfactuals for Extrapolating to Negative Examples](https://aclanthology.org/2023.emnlp-main.485.pdf), EMNLP 2023
 
-[Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://arxiv.org/pdf/2305.13535.pdf), EMNLP finding 2023
+[Generating Commonsense Counterfactuals for Stable Relation Extraction](https://aclanthology.org/2023.emnlp-main.344.pdf), EMNLP 2023
 
-[Llms as counterfactual explanation modules: Can chatgpt explain black-box text classifiers?](https://arxiv.org/pdf/2309.13340v1.pdf), AAAI 2024(update url, Todo) 
+[CLICK: Integrating Causal Inference and Commonsense Knowledge Incorporation for Counterfactual Story Generation](https://www.mdpi.com/2079-9292/12/19/4173), Electronics 2023
+
+[A general search-based framework for generating textual counterfactual explanations](https://ojs.aaai.org/index.php/AAAI/article/view/29764/31316), AAAI 2024
+
+[A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://proceedings.mlr.press/v222/wu24a/wu24a.pdf), ACML 2023
+
+[Counterfactual-Enhanced Information Bottleneck for Aspect-Based Sentiment Analysis](https://ojs.aaai.org/index.php/AAAI/article/view/29726/31247), AAAI 2024
+
+## LLMs as Counterfactual Generation
+
+[CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation](https://aclanthology.org/2022.findings-emnlp.216.pdf), EMNLP finding 2022
 
 [DISCO: Distilling Counterfactuals with Large Language Models](https://aclanthology.org/2023.acl-long.302.pdf),  ACL 2023 
 
-[Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://arxiv.org/pdf/2310.00603v2.pdf), ICLR 2024
-
 [CATfOOD: Counterfactual Augmented Training for Improving Out-of-Domain Performance and Calibration](https://aclanthology.org/2024.eacl-long.113.pdf), EACL 2024
 
-[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 ( Undo in overleaf: Detect the spurious correlation between concept and label, and simply propose to use cfs to alleviate spurious.)
+[Faithful Explanations of Black-box NLP Models Using LLM-generated Counterfactuals](https://openreview.net/pdf?id=UMfcdRIotC), ICLR Poster 2024
 
-[A Novel Counterfactual Data Augmentation Method for Aspect-Based Sentiment Analysis](https://arxiv.org/pdf/2306.11260.pdf), ACML 2023
+[LLMs for Generating and Evaluating Counterfactuals: A Comprehensive Study](https://arxiv.org/pdf/2405.00722), arXiv preprint 2024
 
-[CORE: A Retrieve-then-Edit Framework for Counterfactual Data Generation](https://arxiv.org/pdf/2210.04873.pdf), EMNLP finding 2022
+[Prompting Large Language Models for Counterfactual Generation: An Empirical Study](https://aclanthology.org/2024.lrec-main.1156.pdf), LREC-COLING 2024
+
+[Towards LLM-guided Causal Explainability for Black-box Text Classifiers](https://arxiv.org/pdf/2309.13340), AAAI Workshop 2024
+
 
 ## Other Related Papers
-[Logic-guided data augmentation and regularization for consistent question answering](https://aclanthology.org/2020.acl-main.499.pdf), ACL 2020.
 
 [People Make Better Edits: Measuring the Efficacy of LLM-Generated Counterfactually Augmented Data for Harmful Language Detection](https://aclanthology.org/2023.emnlp-main.649.pdf), EMNLP 2023 
+
+[Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://aclanthology.org/2023.findings-emnlp.10.pdf), EMNLP finding 2023
+
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf) arxive 2023 
