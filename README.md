@@ -53,7 +53,7 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 ## Identify and then Generate
 
-[Explaining Data-Driven Document Classifications](https://www.semanticscholar.org/paper/Explaining-Data-Driven-Document-Classifications-Martens-Provost/add9930a368c1f281a1428d09ba65751edf06555), MIS Quarterly 2014
+[Explaining Data-Driven Document Classifications](https://dl.acm.org/doi/10.25300/MISQ/2014/38.1.04), MIS Quarterly 2014
 
 [Delete, Retrieve, Generate: A Simple Approach to Sentiment and Style Transfer](https://aclanthology.org/N18-1169.pdf), NAACL 2018
 
