@@ -8,10 +8,10 @@ Here are some examples of counterfactuals based on sentiment analysis and natura
 ## Overview
 The following papers are collected and categorized according to our survey paper—— A Survey on Natural Language Counterfactual Generation. 
 
-- [Manual Generation](##manual-generation)
-- [Gradient-based Optimization](##gradient-based-optimization)
-- [Identify and then Generate](##identify-and-then-generate)
-- [LLMs as Counterfactual Generation](##llms-as-counterfactual-generation)
+- [Manual Generation](#manual-generation)
+- [Gradient-based Optimization](#gradient-based-optimization)
+- [Identify and then Generate](#identify-and-then-generate)
+- [LLMs as Counterfactual Generation](#llms-as-counterfactual-generation)
   
 ### Reference
 Matt Gardner, et al. Evaluating Models’ Local Decision Boundaries via Contrast Sets. In Findings of the Association for Computational Linguistics: EMNLP 2020, pages 1307–1323, Online. Association for Computational Linguistics.
