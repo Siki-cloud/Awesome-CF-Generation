@@ -153,6 +153,8 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Towards LLM-guided Causal Explainability for Black-box Text Classifiers](https://arxiv.org/pdf/2309.13340), AAAI Workshop 2024
 
+[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf), ACL 2024 
+
 
 ## Other Related Papers
 
@@ -160,4 +162,3 @@ Pepa Atanasova, et al. Fact Checking with Insufficient Evidence. Transactions of
 
 [Improving Classifier Robustness through Active Generation of Pairwise Counterfactuals](https://aclanthology.org/2023.findings-emnlp.10.pdf), EMNLP finding 2023
 
-[Explore Spurious Correlations at the Concept Level in Language Models for Text Classification](https://arxiv.org/pdf/2311.08648.pdf), arXive Preprint 2023 
